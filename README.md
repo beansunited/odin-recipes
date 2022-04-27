@@ -42,3 +42,4 @@ command line
 
 The goal of this project is to combine the above topics to create a functioning recipe website that has three websites total to help with practice HTML, git, and the command line. 
 
+Live preview at: https://beansunited.github.io/odin-recipes/
